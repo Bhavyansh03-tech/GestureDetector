@@ -40,12 +40,11 @@ Each of these methods allows for customized handling of specific gestures, makin
 
 To run this project on your local machine:
 
-1. Clone the repository:
+1. Clone the repository and open it in your IDE:
    ```bash
-   git clone https://github.com/Bhavyansh03-tech/Gesture_Detector.git
+   git clone https://github.com/Bhavyansh03-tech/FlutterTabBar.git
    ```
-2. Open the project in your preferred IDE (like Android Studio, VSCode, or IntelliJ).
-3. Run the app:
+2. Run the project on an emulator or a physical device.
    ```bash
    flutter run
    ```
