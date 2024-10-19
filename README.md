@@ -42,7 +42,7 @@ To run this project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bhavyansh03-tech/ListViewBuilder.git
+   git clone https://github.com/Bhavyansh03-tech/Gesture_Detector.git
    ```
 2. Open the project in your preferred IDE (like Android Studio, VSCode, or IntelliJ).
 3. Run the app:
@@ -65,4 +65,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 For questions or feedback, please contact [@Bhavyansh03-tech](https://github.com/Bhavyansh03-tech) on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/bhavyansh03/).
 
 ---
-
