@@ -9,7 +9,7 @@ This Flutter app is built to demonstrate how to use the `GestureDetector` widget
 - Real-time display of the number of taps.
 
 ## Preview
-<img src="https://github.com/user-attachments/assets/1c1aae62-42a5-4508-8714-4b38f58fb123" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+<img src="https://github.com/user-attachments/assets/e42691f9-a2a5-48f3-9ef7-9eec3a0f5234" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
 
 ## Code Explanation
 
